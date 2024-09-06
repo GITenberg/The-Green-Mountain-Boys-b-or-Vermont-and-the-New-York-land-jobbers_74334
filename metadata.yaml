@@ -1,0 +1,39 @@
+_repo: The-Green-Mountain-Boys-b-or-Vermont-and-the-New-York-land-jobbers_74334
+_version: 0.0.1
+alternative_title: 'At head of title: Curiosities in American history'
+creator:
+  author:
+    agent_name: Smith, Philip H. (Philip Henry)
+    birthdate: 1842
+    gutenberg_agent_id: '57452'
+    url: http://www.gutenberg.org/2009/agents/57452
+description: ''
+gutenberg_issued: '2024-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74334'
+  lccn: rc01003108
+language: en
+pgterms:marc904: https://archive.org/details/curiositiesiname00smit
+pgterms:marc905: 20230703131837smith
+pgterms:marc906: '1885'
+pgterms:marc907: US
+production_note: deaurider, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aPawling :$bPhilip H. Smith, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vermont -- History -- To 1791'
+- !lcsh 'New York (State) -- History'
+- !lcc 'F001'
+- GITenberg
+tableOfContents: Introduction -- Geographical outline and settlement -- Origin of
+  the land troubles -- Resisting New York claimants -- Mandatory laws of New York
+  -- Affair at Westminster -- Attitude of Congress -- Fall of Ticonderoga -- Expedition
+  into Canada -- Establishment of a civil government -- Battle of Bennington -- Private
+  negotiations with the British -- Conclusion.
+title: 'The Green Mountain Boys : $b or, Vermont and the New York land jobbers'
+url: http://www.gutenberg.org/ebooks/74334
