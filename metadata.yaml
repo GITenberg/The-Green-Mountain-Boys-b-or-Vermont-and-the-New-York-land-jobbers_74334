@@ -1,6 +1,9 @@
 _repo: The-Green-Mountain-Boys-b-or-Vermont-and-the-New-York-land-jobbers_74334
 _version: 0.1.0
 alternative_title: 'At head of title: Curiosities in American history'
+covers:
+- cover_type: archival
+  image_path: 74334-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Smith, Philip H. (Philip Henry)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '57452'
     url: http://www.gutenberg.org/2009/agents/57452
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74334#The-Green-Mountain-Boys-b-or-Vermont-and-the-New-York-land-jobbers
 gutenberg_issued: '2024-08-30'
 gutenberg_type: Text
 identifiers:
